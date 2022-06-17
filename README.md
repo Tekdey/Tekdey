@@ -5,7 +5,6 @@
  🎨 my [portfolio - 2021](https://tekdey.github.io/portfolio-2021/)  
   
 
-![hello](https://i.giphy.com/media/Ah3zHH7hvsSB2/giphy.webp)  
 ![](https://komarev.com/ghpvc/?username=Tekdey)  
 
  </div>
